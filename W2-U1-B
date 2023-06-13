@@ -1,0 +1,14 @@
+U1B:
+
+Developing the read only List- report: Explain the business scenarion and scoe of the object:
+
+Travel data : stored in the ZRAP_ATRAV_####.
+Booking data : Stored in ZRAP_ABOOL_####
+Agency data stored in :/DMA/AGENCY
+Flight "     "      " :/DMO/FLIGHT
+Customer "   "        : /DMO/CUSTOMER
+
+U2C:
+
+
+
